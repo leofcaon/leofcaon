@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with Angular in front-end and Node.JS in back-end
-- 🌱 I’m currently learning about TypeScript, JavaScript, Angular, Node.JS, NestJS, HTML and CSS
+- 🌱 I’m currently studying about Cloud, Java, Docker, Kubernets and Patterns
 - 💬 Ask me about anything you want and maybe i can help u ^_^
 
 <div align="center">
