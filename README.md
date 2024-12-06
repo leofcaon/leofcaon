@@ -1,8 +1,8 @@
-## Hi there! My name is Leonardo Caon and I'm a Web Developer 😉
+## Hi there! My name is Leonardo Caon and I'm a Fullstack Developer 😉
 
 
-- 🔭 I’m currently working with Angular in front-end and Node.JS in back-end
-- 🌱 I’m currently studying about Cloud, Java, Docker, Kubernets and Patterns
+- 🔭 I’m currently working with Vue in front-end and Node.JS and Loopback in back-end
+- 🌱 I’m currently studying about VitePress =)
 - 💬 Ask me about anything you want and maybe i can help u ^_^
 
 <div align="center">
